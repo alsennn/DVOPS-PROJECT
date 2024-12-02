@@ -7,7 +7,7 @@ var startPage = "index.html";
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-app.use(express.static("./intrumented"));
+app.use(express.static("./instrumented"));
 
 const { viewBlogs } = require('./utils/BrandenUtil')
 app.get('/view-blog', viewBlogs);
