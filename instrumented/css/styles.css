@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header styling */
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+}
+header h1 {
+    flex-grow: 1;
+    font-size: 24px;
+    text-align: center;
+    margin-left: -190px;
+}
+header nav a {
+    text-decoration: none;
+    color: black;
+    padding-left: 170px;
+}
+header nav a:hover {
+    color: rgb(51, 175, 252);
+}
+
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    color: black;
+}
+.btn-secondary {
+    color: #f9f9f9;
+    background-color: black;
+}
+.btn-secondary:hover {
+    background-color: rgb(51, 175, 252);
+}
+
+/* Main content styling */
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.search-container input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 200px;
+}
+.upload-btn {
+    padding: 8px 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: right;
+}
+.upload-btn:hover {
+    background-color: rgb(51, 175, 252);
+}
+
+/* Blog post box styling */
+.blog-post {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    background-color: #f9f9f9;
+}
+.blog-post h3 {
+    margin: 0 0 10px;
+}
+
+.blog-actions button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 22px;
+    color: #0a0a0a;
+}
+.blog-actions button:hover {
+    color: rgb(51, 175, 252);
+}
+
+.blog-content {
+    font-size: 14px;
+    color: #333;
+}
+
+.blog-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.resourceContainer {
+    justify-content: center;
+}
