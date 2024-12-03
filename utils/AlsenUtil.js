@@ -88,7 +88,6 @@ async function addResource(req, res) {
     }
 }
 
-
 module.exports = {
     readJSON, writeJSON, addResource
 };
