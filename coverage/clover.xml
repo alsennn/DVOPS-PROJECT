@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1733211847443" clover="3.2.0">
-  <project timestamp="1733211847444" name="All files">
+<coverage generated="1733241487436" clover="3.2.0">
+  <project timestamp="1733241487436" name="All files">
     <metrics statements="123" coveredstatements="41" conditionals="41" coveredconditionals="5" methods="19" coveredmethods="7" elements="183" coveredelements="53" complexity="0" loc="123" ncloc="123" packages="1" files="4" classes="4"/>
-    <file name="alsen.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_PROJECT_PART2\DVOPS-PROJECT\public\js\alsen.js">
+    <file name="alsen.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\alsen.js">
       <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <line num="2" count="5" type="stmt"/>
       <line num="3" count="5" type="stmt"/>
@@ -26,7 +26,7 @@
       <line num="30" count="4" type="stmt"/>
       <line num="34" count="5" type="stmt"/>
     </file>
-    <file name="branden.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_PROJECT_PART2\DVOPS-PROJECT\public\js\branden.js">
+    <file name="branden.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\branden.js">
       <metrics statements="33" coveredstatements="20" conditionals="8" coveredconditionals="3" methods="8" coveredmethods="5"/>
       <line num="1" count="6" type="stmt"/>
       <line num="5" count="6" type="stmt"/>
@@ -43,7 +43,7 @@
       <line num="24" count="6" type="stmt"/>
       <line num="29" count="6" type="stmt"/>
       <line num="30" count="6" type="stmt"/>
-      <line num="31" count="5" type="stmt"/>
+      <line num="31" count="35" type="stmt"/>
       <line num="46" count="6" type="stmt"/>
       <line num="47" count="6" type="stmt"/>
       <line num="52" count="0" type="stmt"/>
@@ -62,7 +62,7 @@
       <line num="78" count="6" type="stmt"/>
       <line num="79" count="6" type="stmt"/>
     </file>
-    <file name="justin.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_PROJECT_PART2\DVOPS-PROJECT\public\js\justin.js">
+    <file name="justin.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\justin.js">
       <metrics statements="42" coveredstatements="0" conditionals="21" coveredconditionals="0" methods="5" coveredmethods="0"/>
       <line num="3" count="0" type="stmt"/>
       <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -107,7 +107,7 @@
       <line num="116" count="0" type="stmt"/>
       <line num="119" count="0" type="stmt"/>
     </file>
-    <file name="shian.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_PROJECT_PART2\DVOPS-PROJECT\public\js\shian.js">
+    <file name="shian.js" path="C:\Users\ialse\OneDrive - Temasek Polytechnic\TP Year 2.2\DVOPS\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\shian.js">
       <metrics statements="27" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="4" coveredmethods="0"/>
       <line num="4" count="0" type="stmt"/>
       <line num="7" count="0" type="stmt"/>

@@ -7,9 +7,9 @@
     "backend-test": "nyc --nycrc-path .nycrc-backend mocha",
     "frontend-instrument": "xcopy public instrumented /I /E /Y & nyc instrument public instrumented",
     "frontend-test": "rmdir -r .nyc_output & nyc --nycrc-path .nycrc-frontend cypress run",
-    "frontend-test-chrome": "nyc --nycrc-path .nycrc-frontend cypress run --browser chrome",   
-    "frontend-test-firefox": "nyc --nycrc-path .nycrc-frontend cypress run --browser firefox", 
-    "frontend-test-edge": "nyc --nycrc-path .nycrc-frontend cypress run --browser edge"       
+    "frontend-test-chrome": "nyc --nycrc-path .nycrc-frontend cypress run --browser chrome",
+    "frontend-test-firefox": "nyc --nycrc-path .nycrc-frontend cypress run --browser firefox",
+    "frontend-test-edge": "nyc --nycrc-path .nycrc-frontend cypress run --browser edge"
   },
   "keywords": [],
   "author": "",
