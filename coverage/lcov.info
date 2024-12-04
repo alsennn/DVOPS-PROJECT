@@ -50,7 +50,7 @@ FNDA:6,viewBlogs
 FNDA:6,(anonymous_1)
 FNDA:0,(anonymous_2)
 FNDA:6,displayBlogs
-FNDA:35,(anonymous_4)
+FNDA:17,(anonymous_4)
 FNDA:0,handleSearch
 FNDA:0,(anonymous_6)
 FNDA:6,(anonymous_7)
@@ -69,7 +69,7 @@ DA:21,0
 DA:24,6
 DA:29,6
 DA:30,6
-DA:31,35
+DA:31,17
 DA:46,6
 DA:47,6
 DA:52,0
