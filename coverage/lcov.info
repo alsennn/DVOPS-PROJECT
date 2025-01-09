@@ -1,5 +1,5 @@
 TN:
-SF:public\js\alsen.js
+SF:..\..\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\alsen.js
 FN:1,addResource
 FN:10,(anonymous_1)
 FNF:2
@@ -35,7 +35,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:public\js\branden.js
+SF:..\..\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\branden.js
 FN:4,viewBlogs
 FN:10,(anonymous_1)
 FN:20,(anonymous_2)
@@ -50,7 +50,7 @@ FNDA:6,viewBlogs
 FNDA:6,(anonymous_1)
 FNDA:0,(anonymous_2)
 FNDA:6,displayBlogs
-FNDA:17,(anonymous_4)
+FNDA:41,(anonymous_4)
 FNDA:0,handleSearch
 FNDA:0,(anonymous_6)
 FNDA:6,(anonymous_7)
@@ -69,7 +69,7 @@ DA:21,0
 DA:24,6
 DA:29,6
 DA:30,6
-DA:31,17
+DA:31,41
 DA:46,6
 DA:47,6
 DA:52,0
@@ -101,7 +101,7 @@ BRF:8
 BRH:3
 end_of_record
 TN:
-SF:public\js\justin.js
+SF:..\..\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\justin.js
 FN:2,createEditModal
 FN:46,editResource
 FN:67,updateResource
@@ -183,7 +183,7 @@ BRF:21
 BRH:0
 end_of_record
 TN:
-SF:public\js\shian.js
+SF:..\..\DVOPS_Project_Part_2_Final\DVOPS-PROJECT\public\js\shian.js
 FN:2,deleteResource
 FN:7,(anonymous_1)
 FN:28,(anonymous_2)
