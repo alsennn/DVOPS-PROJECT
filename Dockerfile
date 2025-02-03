@@ -6,9 +6,17 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 # Install app dependencies
 RUN npm install
+
+RUN npm install pm2 -g
+
+ENV PM2_PUBLIC_KEY 3sg44u1128bwyyp
+ENV PM2_SECRET_KEY wzztwww3v3tr6vh
+
+
 # Bundle app source
 COPY . .
 # Expose the port your app runs on
 EXPOSE 5050
 # Define the command to run your app
-CMD [ "node", "index.js" ]
+CMD [ "pm2-runtime", "index.js" ]
+

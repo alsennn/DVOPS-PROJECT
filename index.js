@@ -25,6 +25,9 @@ app.get('/', (req, res) => {
     res.sendFile(__dirname + "/public/" + startPage);
 })
 
+const statusMonitor = require('express-status-monitor');
+app.use(statusMonitor());
+
 server = app.listen(PORT, function () {
     const address = server.address();
     const baseUrl = `http://${address.address == "::" ? 'localhost' :
